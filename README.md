@@ -16,7 +16,6 @@ Built with a clean UI and powerful backend, this application is ideal for both i
 
 🔐 Authentication
 - Secure login & registration
-- (Optional) Google OAuth integration
 
  📊 Dashboard
 - Overview of tasks and progress
@@ -42,7 +41,6 @@ Built with a clean UI and powerful backend, this application is ideal for both i
 Frontend 💻
 - React.js
 - HTML5, CSS3
-- (Optional: Tailwind CSS / Material UI)
 
 Backend 💪
 - Node.js
@@ -53,7 +51,6 @@ Database 📥
 
 Authentication 🧐
 - JWT (JSON Web Tokens)
-- OAuth (optional)
   
 🚀 Future Enhancements
 - 🔔 Notifications & reminders  
